@@ -1,0 +1,125 @@
+<html>
+	<head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https:////cdn.datatables.net/1.10.25/css/jquery.dataTables.min.css">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/3.0.4/socket.io.js" integrity="sha512-aMGMvNYu8Ue4G+fHa359jcPb1u+ytAF+P2SCb+PxrjCdO3n3ZTxJ30zuH39rimUggmTwmh2u7wvQsDTHESnmfQ==" crossorigin="anonymous"></script>
+        <script src="https://www.gstatic.com/firebasejs/8.7.0/firebase-app.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/8.7.0/firebase-database.js"></script>
+        <script src="https://cdn.datatables.net/1.10.25/js/jquery.dataTables.min.js"></script>
+	</head>
+	
+	<body>
+        
+        <div class="container">
+            <h2 class="mt-4 mb-3 text-center">Scorelist Record</h2>
+            <div class="table-responsive mb-4">
+                <table class="table table-striped table-hoverd">
+                    <thead>
+                        <tr>
+                            <th>A0</th>
+                            <th>A1</th>
+                            <th>A2</th>
+                            <th>A3</th>
+                            <th>Time</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+            </div>
+
+            <p>
+                Current transport is: <b><span id="transport"></span></b><br>
+                Average ping/pong latency: <b><span id="ping-pong"></span>ms</b>
+            </p>
+            
+            <h2>Receive:</h2>
+            <div id="log"></div>
+
+        </div>
+
+
+		<script>
+			$(document).ready(function() {
+
+                var table = $('table').DataTable();
+
+
+                // Connect to the Socket.IO server.
+                // The connection URL has the following format, relative to the current page:
+                //     http[s]://<domain>:<port>[/<namespace>]
+                // var socket = io("http://localhost:5000");
+
+                var socket = io();
+                
+                socket.emit("Get Message", "HELLO WORLD");
+                        
+                var firebaseConfig = {
+                    apiKey: "AIzaSyBf42n0MMxdRaFS8jNevSfVuup3_hMiIVE",
+                    authDomain: "planter-ai.firebaseapp.com",
+                    databaseURL: "https://planter-ai-default-rtdb.firebaseio.com",
+                    projectId: "planter-ai",
+                    storageBucket: "planter-ai.appspot.com",
+                    messagingSenderId: "978957335077",
+                    appId: "1:978957335077:web:f23fc7379ee0b96a875dcc",
+                    measurementId: "G-L2CXVRH785"
+                };
+                firebase.initializeApp(firebaseConfig);
+                var database = firebase.database().ref().child('Scorelist');
+                database.once('value', function(snapshot){
+                    if(snapshot.exists()){
+                        snapshot.forEach(function(data){
+                            console.log(data.val());
+                            let array = [];
+                            Object.values(data.val()).forEach(function (value, i) {
+                                var key = Object.keys(value)[0];
+                                array.push(value[key]);                             
+                            });
+                            
+                            table.row.add(array).draw();
+                        });
+                    }
+                });
+
+                socket.on('my response', function(msg, cb) {
+                    console.log(msg.message);
+                    console.log("---------------" + cb + "------------------");
+
+                    $('#log').append('<br>' + $('<div/>').text('Received #' + msg.message).html());
+                    if (cb)
+                        cb();
+
+
+                    if(msg){
+                        var currentdate = new Date(); 
+                        var datetime = "Last Sync: " + currentdate.getDate() + "-"
+                            + (currentdate.getMonth()+1)  + "-" 
+                            + currentdate.getFullYear() + "  "  
+                            + currentdate.getHours() + ":"  
+                            + currentdate.getMinutes() + ":" 
+                            + currentdate.getSeconds();
+
+
+                        var firebaseRef = firebase.database().ref();
+                        if(typeof msg.data === 'undefined'){
+                            msg.data = 0;
+                        }
+                        // firebaseRef.child(datetime).set(msg.message);
+												
+                    }
+
+                });
+                    
+            });
+			
+		</script>
+		
+		
+	
+	</body>
+</html>
