@@ -1,5 +1,5 @@
 # Phase 1
-This project helps developers in the creation of extended realities that communicate with Arduino and requires the security of blockchain storage.
+This project helps developers in the creation of extended realities that communicate with Arduino and require the security of blockchain storage.
 
 P1 - Starter Project + Firebase + Google Cloud ✅
 
