@@ -6,8 +6,11 @@ P1 - Starter Project + Firebase + Google Cloud.
 Phase 1.0 - Complete and available now. ✅
 
 We've developed a sensor application (Python + Raspberry Pi + Arduino)
+
 Stored the Python + Raspberry Pi data into Google Firebase through Python API's
+
 Collected data from Firebase and displayed it in a Unity mobile application.
+
 Displayed dta on a static IP address from Firebase.
     
     
