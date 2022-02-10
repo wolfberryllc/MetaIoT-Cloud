@@ -1,9 +1,9 @@
 # Phase 1
 This project helps developers in the creation of extended realities that communicate with Arduino and require the security of blockchain storage.
 
-P1 - Starter Project + Firebase + Google Cloud ✅
+P1 - Starter Project + Firebase + Google Cloud.
 
-Phase 1.0 - Complete and available now.
+Phase 1.0 - Complete and available now. ✅
 
 We've developed a sensor application (Python + Raspberry Pi + Arduino)
 Stored the Python + Raspberry Pi data into Google Firebase through Python API's
