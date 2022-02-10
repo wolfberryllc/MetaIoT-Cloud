@@ -11,7 +11,7 @@ Stored the Python + Raspberry Pi data into Google Firebase through Python API's
 
 Collected data from Firebase and displayed it in a Unity mobile application.
 
-Displayed dta on a static IP address from Firebase.
+Displayed data on a static IP address from Firebase.
     
     
 # Phase 2
