@@ -3,7 +3,7 @@ This project helps developers in the creation of extended realities that communi
 
 P1 - Starter Project (Planter AI) + Firebase + Google Cloud.
 
-Phase 1.0 - Complete and available now. ✅
+Phase 1 - Complete and available now. ✅
 
 We've developed a sensor application (Python + Raspberry Pi + Arduino)
 
@@ -17,6 +17,6 @@ Displayed data on a static IP address from Firebase.
 # Phase 2
 P2 - Starter Project (Planter AI) + AWS & Hyperledger + Blockchain Storage.
 
-Phase 2.0 - In Development.
+Phase 2  - In Development.
 
-{Mobile Apps Development & Uploading to snapcraft.io, The App Store and Google Play using Augmented & Virtual Reality (AR & VR), AWS (Amazon Web Server & Services) & Hyperledger} *Contact us for specifics using support@wolfberryllc.com - otherwise we will release all phase 2 assets, source code + notes around March 01 2022
+{Mobile Apps Development & Uploading to snapcraft.io, The App Store and Google Play using Augmented & Virtual Reality (AR & VR), AWS (Amazon Web Server & Services) & Hyperledger} *Contact us for specifics using support@wolfberryllc.com - otherwise we will release all phase 2 assets, source code + notes around April 01 2022
