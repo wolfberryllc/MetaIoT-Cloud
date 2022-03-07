@@ -15,7 +15,7 @@ Displayed data on a static IP address from Firebase.
     
     
 # Phase 2
-P2 - Starter Project + AWS & Hyperledger + Blockchain Storage.
+P2 - Starter Project (Planter AI) + AWS & Hyperledger + Blockchain Storage.
 
 Phase 2.0 - In Development.
 
