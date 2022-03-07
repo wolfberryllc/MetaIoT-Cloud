@@ -19,4 +19,4 @@ P2 - Starter Project (Planter AI) + AWS & Hyperledger + Blockchain Storage.
 
 Phase 2  - In Development.
 
-{Mobile Apps Development & Uploading to snapcraft.io, The App Store and Google Play using Augmented & Virtual Reality (AR & VR), AWS (Amazon Web Server & Services) & Hyperledger} *Contact us for specifics using support@wolfberryllc.com - otherwise we will release all phase 2 assets, source code + notes around April 01 2022
+{Mobile Apps Development & Uploading to snapcraft.io, The App Store and Google Play using Augmented Reality (AR), AWS (Amazon Web Server & Services) & Hyperledger + Cardano} *Contact us for specifics using support@wolfberryllc.com - otherwise we will release all phase 2 assets, source code + notes around April 01 2022
