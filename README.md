@@ -1,4 +1,4 @@
-# Phase 1
+# Phase 1 (Canis)
 This project helps developers in the creation of extended realities that communicate with Arduino and require the security of blockchain storage.
 
 P1 - Starter Project (Planter AI) + Firebase + Google Cloud.
