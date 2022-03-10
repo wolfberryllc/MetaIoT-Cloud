@@ -14,7 +14,7 @@ Collected data from Firebase and displayed it in a Unity mobile application.
 Displayed data on a static IP address from Firebase.
     
     
-# Phase 2
+# Phase 2 (Boysenberry)
 P2 - Starter Project (Planter AI) + AWS & Hyperledger + Blockchain Storage.
 
 Phase 2  - In Development.
