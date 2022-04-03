@@ -20,3 +20,4 @@ P2 - Starter Project (Planter AI) + AWS & Hyperledger + Blockchain Storage.
 Phase 2  - In Development.
 
 {Mobile Apps Development & Uploading to snapcraft.io, The App Store and Google Play using Augmented Reality (AR), AWS (Amazon Web Server & Services) & Hyperledger + Cardano} *Contact us for specifics using support@wolfberryllc.com - otherwise we will release all phase 2 assets, source code + notes around May 01 2022
+![MetaIoT   Planter AI Flow Chart 2 0](https://user-images.githubusercontent.com/53659320/161427762-ef32af2e-5a74-497d-8beb-48585a965674.jpg)
