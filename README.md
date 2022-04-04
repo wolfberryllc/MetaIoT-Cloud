@@ -12,7 +12,8 @@ Stored the Python + Raspberry Pi data into Google Firebase through Python API's
 Collected data from Firebase and displayed it in a Unity mobile application.
 
 Displayed data on a static IP address from Firebase.
-![MetaIoT   Planter AI Flow Chart 1 0](https://user-images.githubusercontent.com/53659320/161518252-7e1999ac-5c23-45d2-9e21-aef1c52d8526.jpg)
+![MetaIoT   Planter AI Flow Chart 1 0](https://user-images.githubusercontent.com/53659320/161522000-638b2d73-c8a6-4b50-a1b0-0ee7b2bada28.jpg)
+
 
     
     
