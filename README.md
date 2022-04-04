@@ -13,7 +13,8 @@ Collected data from Firebase and displayed it in a Unity mobile application.
 
 Displayed data on a static IP address from Firebase.
 
-![MetaIoT   Planter AI Flow Chart 1 0](https://user-images.githubusercontent.com/53659320/161523527-af46969e-d414-45ea-83ec-d85e8a604d13.jpg)
+![MetaIoT   Planter AI Flow Chart 1 0](https://user-images.githubusercontent.com/53659320/161525656-2126890d-38b2-4d72-8887-8add9a3f1e14.jpg)
+
 
 
     
