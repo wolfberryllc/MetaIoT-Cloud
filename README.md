@@ -1,5 +1,5 @@
 # Phase 1.0 (Canis)
-This project helps developers in the creation of extended realities that communicate with Arduino and require the security of blockchain storage.
+This project helps developers prototype and publish sensor-driven apps in augmented reality using Unity, Firebase, and Google Cloud. 
 
 P1.0 - Starter Project (Planter AI) + Unity 3D + Firebase + Google Cloud.
 
