@@ -1,5 +1,5 @@
 # Phase 1.0 (Canis)
-This project (P1) helps developers prototype and publish sensor-driven Apps in augmented reality using Unity, Firebase, and Google Cloud. 
+This project (P1) helps developers prototype and publish sensor-driven (Apps) in augmented reality using Unity, Firebase, and Google Cloud. 
 
 P1.0 - Starter Project (Planter AI) + Unity 3D + Firebase + Google Cloud.
 
@@ -21,7 +21,7 @@ Displayed data on a static IP address from Firebase.
     
     
 # Phase 2.0 (Boysenberry)
-This project (P1) helps developers prototype and publish sensor-driven Dapps in augmented reality using Unity, AWS, Hyperledger, and Cardano. 
+This project (P1) helps developers prototype and publish sensor-driven (Dapps) in augmented reality using Unity, AWS, Hyperledger, and Cardano. 
 
 P2.0 - Starter Project (Planter AI) +  Unity 3D + AWS & Hyperledger + Blockchain Storage.
 
