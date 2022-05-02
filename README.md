@@ -29,4 +29,5 @@ Phase 2.0  - In Development.
 
 {Mobile Apps Development & Uploading to snapcraft.io, The App Store and Google Play using Augmented Reality (AR), AWS (Amazon Web Server & Services) & Hyperledger + Cardano} *Contact us for specifics using support@wolfberryllc.com - otherwise we will release all phase 2 assets, source code + notes around June 01 2022
 
-![MetaIoT   Planter AI Flow Chart 2 0](https://user-images.githubusercontent.com/53659320/161560761-0a5f15b9-c827-49fd-8bf8-ac801bf9cf0c.jpg)
+[MetaIoT & Planter AI Flow Chart.pdf](https://github.com/wolfberryllc/MetaIoT/files/8603427/MetaIoT.Planter.AI.Flow.Chart.pdf)
+
