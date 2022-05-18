@@ -31,5 +31,5 @@ Phase 2.0  - In Development.
 
 ![MetaIoT   Planter AI Flow Chart 2 0](https://user-images.githubusercontent.com/53659320/166248906-87af0c38-035a-4f9d-a887-404ac5c1909e.jpg)
 
-# Phase 3.0 (Private)
+# Phase 3.0 (Private management system)
 *Enterprise wallet management system
