@@ -19,7 +19,7 @@ Displayed data on a static IP address from Firebase.
     
     
 # Phase 2.0 (Boysenberry) *Pending release
-This project (P1) helps developers prototype and publish sensor-driven (dApps) in augmented reality using Unity, AWS, Hyperledger, and Cardano. 
+This project (P2) helps developers prototype and publish sensor-driven (dApps) in augmented reality using Unity, AWS, Hyperledger, and Cardano. 
 
 P2.0 - Starter Project (Planter AI) + Mobile Native + AWS & Hyperledger + Blockchain Storage.
 
