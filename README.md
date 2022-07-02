@@ -19,13 +19,13 @@ Displayed data on a static IP address from Firebase.
     
     
 # Phase 2.0 (Boysenberry) *Pending release
-This project (P1) helps developers prototype and publish sensor-driven (Dapps) in augmented reality using Unity, AWS, Hyperledger, and Cardano. 
+This project (P1) helps developers prototype and publish sensor-driven (dApps) in augmented reality using Unity, AWS, Hyperledger, and Cardano. 
 
 P2.0 - Starter Project (Planter AI) + Mobile Native + AWS & Hyperledger + Blockchain Storage.
 
 Phase 2.0  - In Development.
 
-{Mobile Dapps Development & Uploading to snapcraft.io, The App Store and Google Play using Augmented Reality (AR), AWS (Amazon Web Server & Services) & Hyperledger + Cardano} *Contact us for specifics using support@wolfberryllc.com - otherwise we will release all phase 2 assets, source code + notes around August 01 2022
+{Mobile dApps Development & Uploading to snapcraft.io, The App Store and Google Play using Augmented Reality (AR), AWS (Amazon Web Server & Services) & Hyperledger + Cardano} *Contact us for specifics using support@wolfberryllc.com - otherwise we will release all phase 2 assets, source code + notes around August 01 2022
 
 ![MetaIoT   Planter AI Flow Chart 2 0](https://user-images.githubusercontent.com/53659320/166248906-87af0c38-035a-4f9d-a887-404ac5c1909e.jpg)
 
