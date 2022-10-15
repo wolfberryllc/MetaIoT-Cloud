@@ -1,9 +1,5 @@
 
 
-![Asset 2](https://user-images.githubusercontent.com/21232416/196010389-89a5b5a7-bf45-43c1-9ee5-16e99139103a.png)
-
-
-
 # Phase 1 *Available now
 ## This project (P1) helps developers prototype and publish sensor-driven (Apps) in augmented reality using Unity, Firebase and Google Cloud. 
 
