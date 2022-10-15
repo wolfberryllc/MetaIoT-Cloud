@@ -1,5 +1,5 @@
-# Phase 1 (Canis) *Available now
-This project (P1) helps developers prototype and publish sensor-driven (Apps) in augmented reality using Unity, Firebase and Google Cloud. 
+# Phase 1 *Available now
+## This project (P1) helps developers prototype and publish sensor-driven (Apps) in augmented reality using Unity, Firebase and Google Cloud. 
 
 P1.0 - Starter Project (Planter AI) + Unity 3D + Firebase + Google Cloud.
 
@@ -18,8 +18,8 @@ Displayed data on a static IP address from Firebase.
 
     
     
-# Phase 2 (Boysenberry) *Pending release
-This project (P2) helps developers prototype and publish sensor-driven (dApps) in augmented reality using Mobile Native, AWS, Hyperledger, and Cardano. 
+# Phase 2.0 *Pending release
+## This project (P2) helps developers prototype and publish sensor-driven (dApps) in augmented reality using Mobile Native, AWS, Hyperledger, and Cardano. 
 
 P2.0 - Starter Project (Planter AI) + Mobile Native + AWS & Hyperledger + Blockchain Storage.
 
@@ -30,4 +30,5 @@ Phase 2.0  - In Development.
 ![MetaIoT   Planter AI Flow Chart 2 0](https://user-images.githubusercontent.com/53659320/166248906-87af0c38-035a-4f9d-a887-404ac5c1909e.jpg)
 
 # Phase 3 (Management System)
-*Wallet management and response system for phase 2
+## This project updates the backend to use Azure to hyperledger to blockchain storage 
+Wallet management and response system for phase 2
