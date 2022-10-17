@@ -48,7 +48,7 @@ Displayed data on a static IP address from Firebase.
 ## Phase 2 Sensor to Hyperledger and Blockchain Storage with Visualization *Pending release :cyclone:
 ### This project (P2) helps developers prototype and publish sensor-driven (dApps) in augmented reality using Mobile Native, AWS, Hyperledger, and Cardano. 
 
-P2.0 - Starter Project (Planter AI) + Mobile Native + AWS & Hyperledger + Blockchain Storage.
+P2.0 - Starter Project (Planter AI) + CrossPlatform Apps + AWS & Hyperledger + Blockchain Storage.
 
 Phase 2.0  - In Development.
 
