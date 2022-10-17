@@ -1,7 +1,10 @@
 
 
 # Phase 1 *Available now
+
+
 ## This project (P1) helps developers prototype and publish sensor-driven (Apps) in augmented reality using Unity, Firebase and Google Cloud. 
+
 
 P1.0 - Starter Project (Planter AI) + Unity 3D + Firebase + Google Cloud.
 
