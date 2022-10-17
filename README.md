@@ -18,7 +18,7 @@ Collected data from Firebase and displayed it in a Unity mobile application.
 Displayed data on a static IP address from Firebase.
 
 Phase 1.0 - Complete and available now. ✅
-## Accounts Needed 
+### Accounts Needed 
 
 ![Asset 2](https://user-images.githubusercontent.com/21232416/196292350-6d3745db-c8a0-42b1-b3bd-c1f502291eb6.png)
 
@@ -26,7 +26,7 @@ Phase 1.0 - Complete and available now. ✅
 
 -Unity3d
 
-## Hardware Requirements
+### Hardware Requirements
 
 ![hardware](https://user-images.githubusercontent.com/21232416/196290613-d972f95e-6fc7-480c-8674-708c131075f8.png)
 
@@ -38,16 +38,16 @@ Phase 1.0 - Complete and available now. ✅
 
 - Capacative Soil Moisture Sensor [Amazon](https://www.amazon.com/s?k=capacitive+soil+moisture+sensor&crid=3ACLNL2QLYBRL&sprefix=capacative+soil+m%2Caps%2C134&ref=nb_sb_ss_deep-retrain-50-ops-acceptance_1_17)
 
-## Additional Hardware
+### Additional Hardware
 
--Mobile Phone
+- Mobile Phone
 
--Desktop Computer
+- Desktop Computer
 
-## Steps
+### Steps
     
-# Phase 2 *Pending release
-## This project (P2) helps developers prototype and publish sensor-driven (dApps) in augmented reality using Mobile Native, AWS, Hyperledger, and Cardano. 
+## Phase 2 *Pending release
+### This project (P2) helps developers prototype and publish sensor-driven (dApps) in augmented reality using Mobile Native, AWS, Hyperledger, and Cardano. 
 
 P2.0 - Starter Project (Planter AI) + Mobile Native + AWS & Hyperledger + Blockchain Storage.
 
