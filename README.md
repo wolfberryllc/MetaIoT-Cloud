@@ -3,12 +3,11 @@
 # Phase 1 *Available now
 
 
+
 ## This project (P1) helps developers prototype and publish sensor-driven (Apps) in augmented reality using Unity, Firebase and Google Cloud. 
 
 
 P1.0 - Starter Project (Planter AI) + Unity 3D + Firebase + Google Cloud.
-
-Phase 1.0 - Complete and available now. ✅
 
 We've developed a sensor application (Python + Raspberry Pi + Arduino)
 
@@ -18,10 +17,26 @@ Collected data from Firebase and displayed it in a Unity mobile application.
 
 Displayed data on a static IP address from Firebase.
 
+Phase 1.0 - Complete and available now. ✅
 
+## Hardware Requirements
 
+![hardware](https://user-images.githubusercontent.com/21232416/196290613-d972f95e-6fc7-480c-8674-708c131075f8.png)
 
-    
+- Raspberry Pi available at [Raspberry Pi Website](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
+
+- Arduino Uno R3 available at [Arduino Website ](https://store-usa.arduino.cc/products/arduino-uno-rev3)
+
+- Arduino Sensor Base Kit [Arduino Website ](https://store-usa.arduino.cc/products/arduino-sensor-kit-base)
+
+- Capacative Soil Moisture Sensor [Amazon](https://www.amazon.com/s?k=capacitive+soil+moisture+sensor&crid=3ACLNL2QLYBRL&sprefix=capacative+soil+m%2Caps%2C134&ref=nb_sb_ss_deep-retrain-50-ops-acceptance_1_17)
+
+## Additional Hardware
+
+-Mobile Phone
+-Desktop Computer
+
+##Steps
     
 # Phase 2 *Pending release
 ## This project (P2) helps developers prototype and publish sensor-driven (dApps) in augmented reality using Mobile Native, AWS, Hyperledger, and Cardano. 
