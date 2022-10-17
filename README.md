@@ -36,7 +36,7 @@ Phase 1.0 - Complete and available now. ✅
 
 - Arduino Sensor Base Kit [Arduino Website ](https://store-usa.arduino.cc/products/arduino-sensor-kit-base)
 
-- Capacative Soil Moisture Sensor [Amazon](https://www.amazon.com/s?k=capacitive+soil+moisture+sensor&crid=3ACLNL2QLYBRL&sprefix=capacative+soil+m%2Caps%2C134&ref=nb_sb_ss_deep-retrain-50-ops-acceptance_1_17)
+- Capacative Soil Moisture Sensor [Amazon](https://www.seeedstudio.com/Grove-Capacitive-Moisture-Sensor-Corrosion-Resistant.html?gclid=CjwKCAjw-rOaBhA9EiwAUkLV4uWw4T0xUOalunGthIIL82xHWOowN2xJksFZo98VjkIH8_hLOPfKYhoCwRAQAvD_BwE)
 
 ### Additional Hardware
 
