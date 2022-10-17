@@ -18,6 +18,13 @@ Collected data from Firebase and displayed it in a Unity mobile application.
 Displayed data on a static IP address from Firebase.
 
 Phase 1.0 - Complete and available now. ✅
+## Accounts Needed 
+
+![Asset 2](https://user-images.githubusercontent.com/21232416/196292350-6d3745db-c8a0-42b1-b3bd-c1f502291eb6.png)
+
+-Google Firebase 
+
+-Unity3d
 
 ## Hardware Requirements
 
