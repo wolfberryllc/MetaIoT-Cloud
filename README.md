@@ -1,10 +1,10 @@
+# MetaIoT is a sensor to Hyperledger and Blockchain storage project, that takes you from sensor to storage with AR visualization
+
+## Phase 1 *Available now - Sensor to Data Visualization and Storage
 
 
-# Phase 1 *Available now
 
-
-
-## This project (P1) helps developers prototype and publish sensor-driven (Apps) in augmented reality using Unity, Firebase and Google Cloud. 
+### This project (P1) helps developers prototype and publish sensor-driven (Apps) in augmented reality using Unity, Firebase and Google Cloud. 
 
 
 P1.0 - Starter Project (Planter AI) + Unity 3D + Firebase + Google Cloud.
