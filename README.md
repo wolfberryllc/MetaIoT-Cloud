@@ -1,6 +1,6 @@
 # MetaIoT is a sensor to Hyperledger and Blockchain storage project, that takes you from sensor to storage with AR visualization
 
-## Phase 1 *Available now - Sensor to Data Visualization and Storage
+## Phase 1 *Available now - Sensor to Data Visualization and Storage ✅
 
 
 
@@ -17,7 +17,6 @@ Collected data from Firebase and displayed it in a Unity mobile application.
 
 Displayed data on a static IP address from Firebase.
 
-## _Phase 1.0 - Complete and available now. ✅_
 ### Accounts Needed 
 
 ![Asset 2](https://user-images.githubusercontent.com/21232416/196292350-6d3745db-c8a0-42b1-b3bd-c1f502291eb6.png)
@@ -47,7 +46,7 @@ Displayed data on a static IP address from Firebase.
 
 ### Steps
     
-## Phase 2 *Pending release :cyclone:
+## Phase 2 Sensor to Hyperledger and Blockchain Storage with Visualization *Pending release :cyclone:
 ### This project (P2) helps developers prototype and publish sensor-driven (dApps) in augmented reality using Mobile Native, AWS, Hyperledger, and Cardano. 
 
 P2.0 - Starter Project (Planter AI) + Mobile Native + AWS & Hyperledger + Blockchain Storage.
