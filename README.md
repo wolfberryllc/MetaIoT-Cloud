@@ -34,9 +34,10 @@ Phase 1.0 - Complete and available now. ✅
 ## Additional Hardware
 
 -Mobile Phone
+
 -Desktop Computer
 
-##Steps
+## Steps
     
 # Phase 2 *Pending release
 ## This project (P2) helps developers prototype and publish sensor-driven (dApps) in augmented reality using Mobile Native, AWS, Hyperledger, and Cardano. 
