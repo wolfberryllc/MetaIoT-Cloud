@@ -24,7 +24,7 @@ Displayed data on a static IP address from Firebase.
 
 - Google Firebase [Google Firebase Website](https://firebase.google.com/)
 
-- Unity3d
+- Unity3d [Unity3d](https://id.unity.com/en/conversations/1f2147f1-98fe-445d-a797-7bf5357d6c5c001f)
 
 ### Hardware Requirements
 
@@ -47,7 +47,7 @@ Displayed data on a static IP address from Firebase.
 
 ### Steps
     
-## Phase 2 *Pending release
+## Phase 2 *Pending release :cyclone:
 ### This project (P2) helps developers prototype and publish sensor-driven (dApps) in augmented reality using Mobile Native, AWS, Hyperledger, and Cardano. 
 
 P2.0 - Starter Project (Planter AI) + Mobile Native + AWS & Hyperledger + Blockchain Storage.
