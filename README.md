@@ -30,13 +30,13 @@ Displayed data on a static IP address from Firebase.
 ![Asset 3](https://user-images.githubusercontent.com/21232416/196295183-b9934274-4904-4486-aef0-df41b0a34e33.png)
 
 
-- Raspberry Pi available at [Raspberry Pi Website](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
+- Raspberry Pi available at [Seeed Studio](https://www.seeedstudio.com/Raspberry-Pi-4-Computer-Model-B-4GB-p-4077.html)
 
-- Arduino Uno R3 available at [Arduino Website ](https://store-usa.arduino.cc/products/arduino-uno-rev3)
+- Arduino Uno R3 available at [Seeed Studio]([https://store-usa.arduino.cc/products/arduino-uno-rev3](https://www.seeedstudio.com/Arduino-Uno-Rev3-p-2995.html))
 
-- Arduino Sensor Base Kit [Arduino Website ](https://store-usa.arduino.cc/products/arduino-sensor-kit-base)
+- Arduino Sensor Base Kit [Seeed Studio]([https://store-usa.arduino.cc/products/arduino-sensor-kit-base](https://www.seeedstudio.com/Arduino-Sensor-Kit-Base-p-4743.html)
 
-- Capacative Soil Moisture Sensor [Amazon](https://www.seeedstudio.com/Grove-Capacitive-Moisture-Sensor-Corrosion-Resistant.html?gclid=CjwKCAjw-rOaBhA9EiwAUkLV4uWw4T0xUOalunGthIIL82xHWOowN2xJksFZo98VjkIH8_hLOPfKYhoCwRAQAvD_BwE)
+- Capacative Soil Moisture Sensor [Seeed Studio](https://www.seeedstudio.com/Grove-Capacitive-Moisture-Sensor-Corrosion-Resistant.html)
 
 ### Additional Hardware
 
