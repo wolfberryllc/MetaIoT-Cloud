@@ -1,4 +1,4 @@
-# MetaIoT is a sensor to Hyperledger and Blockchain storage project, that takes you from sensor to storage with AR visualization
+# MetaIoT is a sensor to Hyperledger and Blockchain project, that takes you from sensor to storage with AR visualization
 
 ## Phase 1 *Available now - Sensor to Data Visualization and Storage ✅
 
