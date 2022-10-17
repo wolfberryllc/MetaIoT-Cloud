@@ -34,7 +34,7 @@ Displayed data on a static IP address from Firebase.
 
 - Arduino Uno R3 available at [Seeed Studio] (https://www.seeedstudio.com/Arduino-Uno-Rev3-p-2995.html)
 
-- Arduino Sensor Base Kit [Seeed Studio] ([https://store-usa.arduino.cc/products/arduino-sensor-kit-base](https://www.seeedstudio.com/Arduino-Sensor-Kit-Base-p-4743.html)
+- Arduino Sensor Base Kit [Seeed Studio] (https://www.seeedstudio.com/Arduino-Sensor-Kit-Base-p-4743.html)
 
 - Capacative Soil Moisture Sensor [Seeed Studio] (https://www.seeedstudio.com/Grove-Capacitive-Moisture-Sensor-Corrosion-Resistant.html)
 
