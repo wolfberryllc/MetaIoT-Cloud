@@ -43,6 +43,7 @@ Displayed data on a static IP address from Firebase.
 - Mobile Phone iOS & Android
 
 ### Steps
+(Documentation coming soon)
     
 ## Phase 2 Sensor to Hyperledger and Blockchain Storage with Visualization *Pending release :cyclone:
 ### This project (P2) helps developers prototype and publish sensor-driven (dApps) in augmented reality using Mobile Native, AWS, Hyperledger, and Cardano. 
