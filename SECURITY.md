@@ -7,8 +7,8 @@ currently being supported with security updates.
 
 | Version | Supported          | Title   |
 | ------- | ------------------ |---------|
-| 1.0.0   | :white_check_mark: | Canis      |
-| 2.0.0   | :white_check_mark: | Boysenberry|
+| 1.0.0   | :white_check_mark: |     |
+| 2.0.0   | :white_check_mark: | |
 | 3.0.0   | X                  |            |
 
 ## Reporting a Vulnerability
