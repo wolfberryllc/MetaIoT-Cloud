@@ -28,7 +28,8 @@ Phase 1.0 - Complete and available now. ✅
 
 ### Hardware Requirements
 
-![hardware](https://user-images.githubusercontent.com/21232416/196290613-d972f95e-6fc7-480c-8674-708c131075f8.png)
+![Asset 3](https://user-images.githubusercontent.com/21232416/196295183-b9934274-4904-4486-aef0-df41b0a34e33.png)
+
 
 - Raspberry Pi available at [Raspberry Pi Website](https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
 
