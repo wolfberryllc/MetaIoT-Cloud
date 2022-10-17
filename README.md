@@ -40,9 +40,9 @@ Phase 1.0 - Complete and available now. ✅
 
 ### Additional Hardware
 
-- Mobile Phone
+- Mobile Phone iOS & Android
 
-- Desktop Computer
+- Raspberry Pi microcomputer
 
 ### Steps
     
