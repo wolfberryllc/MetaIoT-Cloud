@@ -42,8 +42,6 @@ Displayed data on a static IP address from Firebase.
 
 - Mobile Phone iOS & Android
 
-- Raspberry Pi microcomputer
-
 ### Steps
     
 ## Phase 2 Sensor to Hyperledger and Blockchain Storage with Visualization *Pending release :cyclone:
