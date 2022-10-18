@@ -43,7 +43,40 @@ Displayed data on a static IP address from Firebase.
 - Mobile Phone iOS & Android
 
 ### Steps
-(Documentation coming soon)
+
+## Repository
+
+1. Fork repository and Clone Repository
+
+2. Create a folder on your desktop and name it whatever makes it easier for you to remember your project 
+
+3.  Open Terminal 
+
+4.  Cd to the new folder you just created 
+
+Run in terminal
+
+```
+git clone https://(urlofrepository) 
+```
+
+## Modifications
+
+- The template design is located in  SensorAPI /templates/index.html
+
+- Modify lines 63 ---> 71 with your firebase database and application information
+
+## Arduino Board
+
+1. Connect the Arduino Base Sensor kit to Arduino Uno 
+
+2. Plug the device into your laptop device 
+
+3. Upload Sketches located in
+ PlanterAI-main/SensorApi/AnalogInputArdinu/AnalogInputArdinu.ino
+  
+4. Upload Sketches located in 
+MetaIoT/PlanterAI-main/SensorApi/sketch_may21a/sketch_may21a.ino
     
 ## Phase 2 Sensor to Hyperledger and Blockchain Storage with Visualization *Pending release :cyclone:
 ### This project (P2) helps developers prototype and publish sensor-driven (dApps) in augmented reality using Mobile Native, AWS, Hyperledger, and Cardano. 
