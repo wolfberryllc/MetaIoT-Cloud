@@ -74,7 +74,7 @@ git clone https://(urlofrepository)
 
 1. Connect the Arduino Base Sensor kit to Arduino Uno 
 
-2. Plug the device into your laptop device 
+2. Plug the device into your Raspberry Pi or laptop device 
 
 3. Download Arduino IDE available at [Arduino ](https://www.arduino.cc/en/software)
 
