@@ -72,10 +72,12 @@ git clone https://(urlofrepository)
 
 2. Plug the device into your laptop device 
 
-3. Upload Sketches located in
+3. Download Arduino IDE available at [Arduino ](https://www.arduino.cc/en/software)
+
+4. Upload Sketches located in
  PlanterAI-main/SensorApi/AnalogInputArdinu/AnalogInputArdinu.ino
   
-4. Upload Sketches located in 
+5. Upload Sketches located in 
 PlanterAI-main/SensorApi/sketch_may21a/sketch_may21a.ino
     
 ## Phase 2 Sensor to Hyperledger and Blockchain Storage with Visualization *Pending release :cyclone:
