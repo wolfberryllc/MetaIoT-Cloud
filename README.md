@@ -42,7 +42,7 @@ Displayed data on a static IP address from Firebase.
 
 - Mobile Phone iOS & Android
 
-### Steps
+# Steps
 
 ## Repository
 
