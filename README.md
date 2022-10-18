@@ -63,11 +63,7 @@ cd /foldername
 ```
 git clone https://(urlofrepository) 
 ```
- - Install firebase. This will be done using NPM if you do not have Node.JS installed install it at [Node.JS Website](https://nodejs.org/en/)
- 
- ```
- npm install firebase 
- ```
+
  ## Firebase
 
 ## Modifications
