@@ -69,9 +69,6 @@ git clone https://(urlofrepository)
  npm install firebase 
  ```
  ## Firebase
-Once you have signed up for a firebase account create a project folder where you would like to host your code. Then follow the next steps. 
-
-- 
 
 ## Modifications
 
