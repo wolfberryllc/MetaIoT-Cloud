@@ -48,7 +48,7 @@ Displayed data on a static IP address from Firebase.
 
 1. Fork repository and Clone Repository
 
-2. Create a folder on your desktop and name it whatever makes it easier for you to remember your project 
+2. Create a folder on your desktop and name your project
 
 3.  Open Terminal 
 
