@@ -54,6 +54,10 @@ Displayed data on a static IP address from Firebase.
 
 4.  Cd to the new folder you just created 
 
+``` 
+cd /foldername 
+```
+
 Run in terminal
 
 ```
