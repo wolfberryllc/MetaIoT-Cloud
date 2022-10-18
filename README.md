@@ -1,4 +1,4 @@
-# MetaIoT by Wolfberry LLC is an end to end data route with visualization from sensors to storage.
+# This project is an IoT end to end data route with visualization from sensors to storage.
 
 ## Phase 1 *Available now - Sensor to Data Visualization and Storage ✅
 
