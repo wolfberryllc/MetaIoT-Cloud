@@ -76,7 +76,7 @@ git clone https://(urlofrepository)
  PlanterAI-main/SensorApi/AnalogInputArdinu/AnalogInputArdinu.ino
   
 4. Upload Sketches located in 
-MetaIoT/PlanterAI-main/SensorApi/sketch_may21a/sketch_may21a.ino
+PlanterAI-main/SensorApi/sketch_may21a/sketch_may21a.ino
     
 ## Phase 2 Sensor to Hyperledger and Blockchain Storage with Visualization *Pending release :cyclone:
 ### This project (P2) helps developers prototype and publish sensor-driven (dApps) in augmented reality using Mobile Native, AWS, Hyperledger, and Cardano. 
