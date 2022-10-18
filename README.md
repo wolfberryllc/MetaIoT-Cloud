@@ -64,6 +64,17 @@ cd /foldername
 git clone https://(urlofrepository) 
 ```
 
+- browse to the folder with another change directory
+
+```
+cd /MetaIoT/PlanterAI-main
+```
+- Install Firebase 
+
+```
+python3 -m pip install python-firebase
+```
+
  ## Firebase
 
 ## Modifications
