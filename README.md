@@ -52,7 +52,7 @@ Displayed data on a static IP address from Firebase.
 
 3.  Open Terminal 
 
-4.  d to the new folder you just created 
+4.  cd to the new folder you just created 
 
 ``` 
 cd /foldername 
