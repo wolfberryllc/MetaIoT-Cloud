@@ -1,6 +1,8 @@
-# MetaIoT is an end to end data route with visualization from sensors to storage.
+# MetaIoT is an internet of things end to end data route with visualization from sensors to storage.
 
 ## Phase 1 *Available now - Sensor to Data Visualization and Storage ✅
+
+
 
 ### This project (P1) helps developers prototype and publish sensor-driven (Apps) in augmented reality using Unity, Firebase and Google Cloud. 
 
@@ -72,7 +74,7 @@ git clone https://(urlofrepository)
 
 1. Connect the Arduino Base Sensor kit to Arduino Uno 
 
-2. Plug the device into your laptop device :computer:
+2. Plug the device into your laptop device 
 
 3. Download Arduino IDE available at [Arduino ](https://www.arduino.cc/en/software)
 
