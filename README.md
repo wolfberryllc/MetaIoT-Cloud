@@ -87,7 +87,7 @@ python3 -m pip install python-firebase
 
 1. Connect the Arduino Base Sensor kit to Arduino Uno 
 
-2. Plug the device into your Raspberry Pi or laptop device 
+2. Plug the device into your Raspberry Pi or another computer using an installer
 
 3. Download Arduino IDE available at [Arduino ](https://www.arduino.cc/en/software)
 
