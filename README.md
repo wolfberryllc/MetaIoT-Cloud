@@ -110,4 +110,4 @@ Phase 2.0  - In Development.
 
 ## Phase 3 Management and Response System *Pending release 🌀
 ### This phase updates the backend to use Azure to Hyperledger to blockchain storage. 
-A Wallet management and response system using phase 2 will be completed in this new environment. 
+A wallet management and response system using phase 2 will be completed in this new environment. 
