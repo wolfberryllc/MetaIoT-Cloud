@@ -1,4 +1,4 @@
-# MetaIoT is an end to end data route with visualization from sensors to storage.
+# MetaIoT is an IoT end to end data route with visualization from sensors to storage.
 
 ## Phase 1 *Available now - Sensor to Data Visualization and Storage ✅
 
