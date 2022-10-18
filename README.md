@@ -52,17 +52,22 @@ Displayed data on a static IP address from Firebase.
 
 3.  Open Terminal 
 
-4.  Cd to the new folder you just created 
+4.  d to the new folder you just created 
 
 ``` 
 cd /foldername 
 ```
 
-Run in terminal
+ - get clone
 
 ```
 git clone https://(urlofrepository) 
 ```
+ - Install firebase. This will be done using NPM if you do not have Node.JS installed install it at [Node.JS Website](https://nodejs.org/en/)
+ 
+ ```
+ npm install firebase 
+ ```
 
 ## Modifications
 
