@@ -1,6 +1,6 @@
 # This IoT system is an end-to-end data route with visualization from sensors to storage.
 
-## Phase 1 *Available now - Sensor to Data Visualization and Storage ✅
+## Phase 1 *Available now - Sensor to Data Visualization and Central Storage ✅
 
 
 
