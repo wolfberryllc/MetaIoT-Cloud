@@ -155,6 +155,9 @@ pip install eventlet
   
 5. Upload Sketches located in 
 PlanterAI-main/SensorApi/sketch_may21a/sketch_may21a.ino
+
+[Planter AI Flowchart 2022.pdf](https://github.com/wolfberryllc/MetaIoT/files/9822365/Planter.AI.Flowchart.2022.pdf)
+
     
 ## Phase 2 Sensor to Hyperledger and Blockchain Storage with Visualization *Pending release :cyclone:
 ### This project (P2) helps developers prototype and publish sensor-driven (dApps) in augmented reality using Mobile Native, AWS, Hyperledger, and Cardano. 
