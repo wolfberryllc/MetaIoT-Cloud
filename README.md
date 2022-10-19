@@ -37,7 +37,7 @@ Displayed data on a static IP address from Firebase.
 - Arduino Sensor Base Kit available at [Seeed Studio](https://www.seeedstudio.com/Arduino-Sensor-Kit-Base-p-4743.html)
 
 - Capacative Soil Moisture Sensor available at [Seeed Studio](https://www.seeedstudio.com/Grove-Capacitive-Moisture-Sensor-Corrosion-Resistant.html)
-- [Planter AI Hardware Flowchart .pdf](https://github.com/wolfberryllc/MetaIoT/files/9822443/Planter.AI.Hardware.Flowchart.pdf)
+- [Planter AI Hardware Flowchart.pdf](https://github.com/wolfberryllc/MetaIoT/files/9822443/Planter.AI.Hardware.Flowchart.pdf)
 
 
 
