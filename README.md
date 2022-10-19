@@ -69,11 +69,51 @@ git clone https://(urlofrepository)
 ```
 cd /MetaIoT/PlanterAI-main
 ```
-- Install Firebase 
+
+# Install Dependencies
+These will be run in the home folder of the repository you just created and cloned to your desktop. Please note that you will also need Python installed with pip on the machine you are using to build your application
+
+1. Install Firebase [Seeed Studio](https://www.seeedstudio.com/Arduino-Uno-Rev3-p-2995.html)
 
 ```
 python3 -m pip install python-firebase
 ```
+
+2. Install pylance [pylance Webpage](https://pypi.org/project/pylance/)
+
+```
+pip install pylance
+```
+
+3. Install pyFirmata [pyFirmata Website ](https://pypi.org/project/pyFirmata/)
+
+```
+pip install pyFirmata
+```
+4. Install Flask [Flask Website](https://pypi.org/project/Flask/)
+
+``` 
+pip install Flask
+```
+
+5. Install Flask SocketIO [Flask SocketIO website](https://pypi.org/project/Flask-SocketIO/)
+
+``` 
+pip install Flask-SocketIO 
+```
+
+6. Install Pyrebase [Pyrebase Website](https://pypi.org/project/Pyrebase/)
+
+```
+pip install Pyrebase
+```
+
+7. Install Eventlet [Eventlet Website ](https://pypi.org/project/eventlet/)
+
+``` 
+pip install eventlet
+```
+
 
  ## Firebase
 
