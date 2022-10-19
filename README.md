@@ -9,13 +9,13 @@
 
 P1.0 - Starter Project (Planter AI) + Unity 3D + Firebase + Google Cloud.
 
-We've developed a sensor application (Python + Raspberry Pi + Arduino)
+- We've developed a sensor application (Python + Raspberry Pi + Arduino)
 
-Stored the Python + Raspberry Pi data into Google Firebase through Python API's
+- Stored the Python + Raspberry Pi data into Google Firebase through Python API's
 
-Collected data from Firebase and displayed it in a Unity mobile application.
+- Collected data from Firebase and displayed it in a Unity mobile application.
 
-Displayed data on a static IP address from Firebase.
+- Displayed data on a static IP address from Firebase.
 
 ### Accounts Needed 
 
