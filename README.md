@@ -71,6 +71,18 @@ cd /MetaIoT/PlanterAI-main
 ```
 
  ## Firebase
+ 
+1. Install firebase cli
+[Firebase CLI](https://firebase.google.com/docs/cli?authuser=0#install_the_firebase_cli)
+
+2. Set up firebase hosting site
+[Firebase Hosting Documentation](https://firebase.google.com/docs/hosting/quickstart?authuser=0)
+
+3. Set up firebase realtime database
+[Real Time Database Documentation](https://console.firebase.google.com/u/0/project/demoapp-20c7e/database)
+
+
+
 
 ## Install Dependencies
 These will be run in the home folder of the repository you just created and cloned to your desktop. Please note that you will also need Python installed with pip on the machine you are using to build your application
