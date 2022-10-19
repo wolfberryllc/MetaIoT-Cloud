@@ -73,11 +73,16 @@ cd /MetaIoT/PlanterAI-main
 ## Install Dependencies
 These will be run in the home folder of the repository you just created and cloned to your desktop. Please note that you will also need Python installed with pip on the machine you are using to build your application
 
-1. Install Firebase [Seeed Studio](https://www.seeedstudio.com/Arduino-Uno-Rev3-p-2995.html)
+1. Install Firebase [Firebase Website]([https://www.seeedstudio.com/Arduino-Uno-Rev3-p-2995.html](https://firebase.google.com/docs/web/setup))
 
 ```
 python3 -m pip install python-firebase
 ```
+or
+
+```
+ npm install firebase
+ ```
 
 2. Install pylance [pylance Webpage](https://pypi.org/project/pylance/)
 
