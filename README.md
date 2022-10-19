@@ -70,6 +70,8 @@ git clone https://(urlofrepository)
 cd /MetaIoT/PlanterAI-main
 ```
 
+ ## Firebase
+
 ## Install Dependencies
 These will be run in the home folder of the repository you just created and cloned to your desktop. Please note that you will also need Python installed with pip on the machine you are using to build your application
 
@@ -120,7 +122,7 @@ pip install eventlet
 ```
 
 
- ## Firebase
+
 
 ## Modifications
 
