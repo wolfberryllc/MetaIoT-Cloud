@@ -38,6 +38,8 @@ Displayed data on a static IP address from Firebase.
 
 - Capacative Soil Moisture Sensor available at [Seeed Studio](https://www.seeedstudio.com/Grove-Capacitive-Moisture-Sensor-Corrosion-Resistant.html)
 
+[Planter AI Flowchart 2022.pdf](https://github.com/wolfberryllc/MetaIoT/files/9822365/Planter.AI.Flowchart.2022.pdf)
+
 ### Additional Hardware
 
 - Mobile Phone iOS & Android
@@ -151,12 +153,10 @@ pip install eventlet
 3. Download Arduino IDE available at [Arduino ](https://www.arduino.cc/en/software)
 
 4. Upload Sketches located in
- PlanterAI-main/SensorApi/AnalogInputArdinu/AnalogInputArdinu.ino
+PlanterAI-main/SensorApi/AnalogInputArdinu/AnalogInputArdinu.ino
   
 5. Upload Sketches located in 
 PlanterAI-main/SensorApi/sketch_may21a/sketch_may21a.ino
-
-[Planter AI Flowchart 2022.pdf](https://github.com/wolfberryllc/MetaIoT/files/9822365/Planter.AI.Flowchart.2022.pdf)
 
     
 ## Phase 2 Sensor to Hyperledger and Blockchain Storage with Visualization *Pending release :cyclone:
