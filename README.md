@@ -176,8 +176,8 @@ and then
 python3 main.py
 ```
 
-Once these folders are running your all done! Currently its set to send your info to the database every 10 hour (you don't want to get flooded with data"
-You can change this in the demo.py folder to anything you would like. Feel free to reach out to support@wolfberry.com if you need help. 
+Once these folders are running you're all done! Currently it's set to send your info to the database every 10 hours (you don't want to get flooded with data )
+You can change this in the demo.py folder to anything you would like. Feel free to reach out to support@wolfberry.com if you need any help. 
  
 
     
