@@ -51,7 +51,7 @@ P1.0 - Starter Project (Planter AI) + Unity 3D + Firebase + Google Cloud.
 
 1. Fork repository and Clone Repository
 
-2. Create a folder on your desktop and name your project
+2. Create a folder on your Raspberry Pi desktop and name your project
 
 3.  Open Terminal 
 
@@ -88,7 +88,7 @@ cd /MetaIoT/PlanterAI-main
 
 
 ## Install Dependencies
-These will be run in the home folder of the repository you just created and cloned to your desktop. Please note that you will also need Python installed with pip on the machine you are using to build your application
+These will be run in the home folder of the repository you just created and cloned to your desktop. Please note that you will also need Python installed with pip on the machine you are using to build your application. Only use this if any of the dependencies are not working within your app. 
 
 1. Install Firebase [Firebase Website](https://firebase.google.com/docs/web/setup)
 
@@ -143,7 +143,7 @@ pip install eventlet
 
 - The template design is located in  SensorAPI /templates/index.html
 
-- Modify lines 63 ---> 71 with your firebase database and application information
+- Modify lines 62 ---> 71 with your firebase database and application information
 
 ## Arduino Board
 
@@ -159,6 +159,23 @@ PlanterAI-main/SensorApi/AnalogInputArdinu/AnalogInputArdinu.ino
 5. Upload Sketches located in 
 PlanterAI-main/SensorApi/sketch_may21a/sketch_may21a.ino
 
+
+## Run your project
+
+from your SensorAPI folder run 
+
+```
+python3 demo.py
+```
+
+and then 
+
+```
+main.py
+```
+
+Once these folders are running your all done! Currently its set to send your info to the database every 10 hour (you don't want to get flooded with data"
+You can change this in the demo.py folder to anything you would like. Feel free to reach out to support@wolfberry.com if you need help. 
     
 ## Phase 2 Sensor to Hyperledger and Blockchain Storage with Visualization *Pending release :cyclone:
 ### This project (P2) helps developers prototype and publish sensor-driven (dApps) in augmented reality using Mobile Native, AWS, Hyperledger, and Cardano. 
