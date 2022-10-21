@@ -171,7 +171,7 @@ python3 demo.py
 and then 
 
 ```
-main.py
+python3 main.py
 ```
 
 Once these folders are running your all done! Currently its set to send your info to the database every 10 hour (you don't want to get flooded with data"
