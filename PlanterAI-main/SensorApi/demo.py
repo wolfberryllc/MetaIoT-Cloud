@@ -22,26 +22,45 @@ A2 = []
 A3 = []
 resultcontr = 0
 tenMiutes = 0
-while True:    
-    b = ser.readline()
-    b = b.rstrip()
-    b=b.decode("utf-8")
+while True: 
 
-    b = int(b)
-    b = ( 100 - ( (b/1023.00) * 100 ) )
+    try:
+        b = ser.readline()
+        print(b)
+        b = b.rstrip()
+        b=b.decode("utf-8")
+    except:
+        b = 0
 
 
     if resultcontr == 0:
-        A0.append(int(b))
+        try:
+            A0.append(int(b))
+            
+        except:
+            A0.append(0)
+        
         resultcontr = 1
     elif resultcontr == 1:
-        A1.append(int(b))
+        try:
+            A1.append(int(b))
+        except:
+            A1.append(0)
+            
         resultcontr = 2
     elif resultcontr == 2:
-        A2.append(int(b))
+        try:
+            A2.append(int(b))
+        except:
+            A2.append(0)
+            
         resultcontr = 3
     elif resultcontr == 3:
-        A3.append(int(b))
+        try:
+            A3.append(int(b))
+        except:
+            A3.append(0)
+            
         resultcontr = 0
     
     tenMiutes = tenMiutes + 1
@@ -55,10 +74,7 @@ while True:
         a2 = average(A2)
         a3 = average(A3)
 
-        ao = ( 100 - ( (ao/1023.00) * 100 ) )
-        a1 = ( 100 - ( (a1/1023.00) * 100 ) )
-        a2 = ( 100 - ( (a2/1023.00) * 100 ) )
-        a3 = ( 100 - ( (a3/1023.00) * 100 ) )
+
 
         current_utc = datetime.utcnow()
 
@@ -71,3 +87,5 @@ while True:
 
 
         print(data)
+
+
