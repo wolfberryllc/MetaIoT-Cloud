@@ -176,6 +176,8 @@ main.py
 
 Once these folders are running your all done! Currently its set to send your info to the database every 10 hour (you don't want to get flooded with data"
 You can change this in the demo.py folder to anything you would like. Feel free to reach out to support@wolfberry.com if you need help. 
+ 
+
     
 ## Phase 2 Sensor to Hyperledger and Blockchain Storage with Visualization *Pending release :cyclone:
 ### This project (P2) helps developers prototype and publish sensor-driven (dApps) in augmented reality using Mobile Native, AWS, Hyperledger, and Cardano. 
