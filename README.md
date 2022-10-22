@@ -114,7 +114,7 @@ These will be run in the home folder of the repository you just created and clon
 1. Install Firebase [Firebase Website](https://firebase.google.com/docs/web/setup)
 
 ```
-python3 -m pip install python-firebase
+pip install python-firebase
 ```
 or
 
