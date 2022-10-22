@@ -227,7 +227,7 @@ API folder. In the event NPM does not install in your folders create a package.j
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 ```
 
-and copy to lines 62 - 71
+Then save it
 
 You will now go back to your terminal inside of the root folder of your project (SensorAPI folder)
 
