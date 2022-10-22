@@ -260,7 +260,7 @@ Then hit enter
 
 In the next screen type y and hit enter and do the same for Configure as single page app and set up automatic builds 
 
-<img src="https://user-images.githubusercontent.com/21232416/197349662-69625f66-0cda-49b9-8cb4-034a3f79bd70.png" width="400" height="280">
+<img src="https://user-images.githubusercontent.com/21232416/197349662-69625f66-0cda-49b9-8cb4-034a3f79bd70.png" width="800" height="250">
 
 You will then see this screen 
 
