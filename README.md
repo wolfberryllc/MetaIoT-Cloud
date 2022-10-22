@@ -70,13 +70,13 @@ sudo apt install code
 
 ## Repository
 
-1. Fork repository and Clone Repository
+1. Fork repository 
 
 2. Create a folder on your Raspberry Pi desktop and name your project
 
 3.  Open Terminal 
 
-4.  cd to the new folder you just created 
+4.  Change Directory to the new folder you just created 
 
 ``` 
 cd /foldername 
