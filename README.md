@@ -121,6 +121,13 @@ or
 ```
  npm install firebase
  ```
+ additionally you can run the command below if pip and npm do not work for you.
+ 
+ ```
+ python3 -m pip install git+https://github.com/ozgur/python-firebase
+ 
+```
+
 
 2. Install pylance [pylance Webpage](https://pypi.org/project/pylance/)
 
