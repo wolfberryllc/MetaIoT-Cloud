@@ -91,7 +91,7 @@ git clone https://(urlofrepository)
 - browse to the folder with another change directory
 
 ```
-cd /MetaIoT/PlanterAI-main
+cd /MetaIoT/PlanterAI-main/SensorApi
 ```
 
  ## Firebase
@@ -162,7 +162,7 @@ pip install eventlet
 
 ## Modifications
 
-- The template design is located in  SensorAPI /templates/index.html
+- The template design is located in SensorAPI /templates/index.html
 
 - Modify lines 62 ---> 71 with your firebase database and application information
 
