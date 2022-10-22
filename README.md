@@ -28,6 +28,11 @@ P1.1 - Web App + Raspberry Pi + Arduino + Firebase
 - Unity3d [Unity3d](https://id.unity.com/en/conversations/1f2147f1-98fe-445d-a797-7bf5357d6c5c001f)
 
 ### Software Requirements 
+Before you begin on your Raspberry pi make sure that you have all the installed software and you have ran the most recent updates.
+
+```
+sudo apt update
+```
 
 1. Arduino IDE [Download](https://www.arduino.cc/en/software)
 
@@ -37,9 +42,6 @@ sudo apt install arduino
 
 2. Visual Studio Code [Download](https://code.visualstudio.com/docs/setup/raspberry-pi)
 
-```
-sudo apt update
-```
 ```
 sudo apt install code
 ```
