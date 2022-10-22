@@ -158,46 +158,51 @@ pip install eventlet
 Once you have created your Firebase account browse to your console 
 https://console.firebase.google.com/ and click add project
 
-![image](https://user-images.githubusercontent.com/21232416/197349244-c554be1f-1ff1-4ae2-b806-1dc000a70463.png)
 
+<img src="https://user-images.githubusercontent.com/21232416/197349244-c554be1f-1ff1-4ae2-b806-1dc000a70463.png" width="400" height="280">
 Then you will be prompted to create a project name. Please feel free to use whatever name you would like.
 
-![image](https://user-images.githubusercontent.com/21232416/197349259-5268ce8c-b3a1-46d5-939c-5cce3a32d164.png)
+<img src="https://user-images.githubusercontent.com/21232416/197349259-5268ce8c-b3a1-46d5-939c-5cce3a32d164.png" width="400" height="280">
 
-![image](https://user-images.githubusercontent.com/21232416/197349265-645de8b1-b485-45a2-994f-07d7a5926728.png)
+<img src="https://user-images.githubusercontent.com/21232416/197349265-645de8b1-b485-45a2-994f-07d7a5926728.png" width="400" height="280">
 
 Next you will add Google Analytics 
 
-![image](https://user-images.githubusercontent.com/21232416/197349302-906c13d8-cf64-4041-adcc-8a99846afd49.png)
+<img src="https://user-images.githubusercontent.com/21232416/197349302-906c13d8-cf64-4041-adcc-8a99846afd49.png" width="400" height="280">
 
 Select the Default Account for Firebase 
 
-![image](https://user-images.githubusercontent.com/21232416/197349320-f0983252-d54f-4a55-aa79-4b9f8ced6dca.png)
+<img src="https://user-images.githubusercontent.com/21232416/197349320-f0983252-d54f-4a55-aa79-4b9f8ced6dca.png" width="400" height="280">
+
 
 ### Add Database 
 
 Browse to build and Realtime Database on the left hand side of the console 
 
-![image](https://user-images.githubusercontent.com/21232416/197349353-2013b1cc-010e-4dfd-9306-d6063fd485fc.png)
+<img src="https://user-images.githubusercontent.com/21232416/197349353-2013b1cc-010e-4dfd-9306-d6063fd485fc.png" width="400" height="280">
+
 
 at the top you will be given an option to Create Database
 
-![image](https://user-images.githubusercontent.com/21232416/197349371-d59f407b-9b4a-49ca-a23c-f23ba6e0ed98.png)
+<img src="https://user-images.githubusercontent.com/21232416/197349371-d59f407b-9b4a-49ca-a23c-f23ba6e0ed98.png" width="400" height="280">
 
 Select your Database location and hit next 
 
-![image](https://user-images.githubusercontent.com/21232416/197349374-a44a1508-76f0-4f07-bc9f-438230fdadc0.png)
+<img src="https://user-images.githubusercontent.com/21232416/197349374-a44a1508-76f0-4f07-bc9f-438230fdadc0.png" width="400" height="280">
+
 
 For this project you will start in Test Mode. Once you have selected test mode select Enable
-![image](https://user-images.githubusercontent.com/21232416/197349392-8c235f05-7712-480f-98ea-45e600c5a61f.png)
 
+<img src="https://user-images.githubusercontent.com/21232416/197349392-8c235f05-7712-480f-98ea-45e600c5a61f.png" width="400" height="280">
 
 You will now be taken back to the console and you are ready to add your app. 
 
-![image](https://user-images.githubusercontent.com/21232416/197349440-40fccc9a-b931-4b85-b882-342f6fca0f09.png)
+<img src="https://user-images.githubusercontent.com/21232416/197349440-40fccc9a-b931-4b85-b882-342f6fca0f09.png" width="400" height="280">
 
 Register your app and set up firebase hosting 
-![image](https://user-images.githubusercontent.com/21232416/197349452-30dbebae-6ef4-407a-876a-4b5121df9bbf.png)
+
+<img src="https://user-images.githubusercontent.com/21232416/197349452-30dbebae-6ef4-407a-876a-4b5121df9bbf.png" width="400" height="280">
+
 
 After you register your app you will run NPM install from the terminal inside your Sensor
 API folder. In the event NPM does not install in your folders create a package.json file and place the following code in it.
@@ -242,31 +247,37 @@ firebase init
 ```
 
 You will then see something similar to this in your terminal 
-![image](https://user-images.githubusercontent.com/21232416/197349614-c6f6dedc-51a7-4fe0-ad86-ce2b089ae22b.png)
+
+<img src="https://user-images.githubusercontent.com/21232416/197349614-c6f6dedc-51a7-4fe0-ad86-ce2b089ae22b.png" width="400" height="280">
+
 
 Use the down arrow and space bar to select Hosting configure files for Firebase Hostin and (optionally) set up github action deploys 
 
 Then hit enter
 
-![image](https://user-images.githubusercontent.com/21232416/197349642-8d1cf838-8370-44d8-aa40-88d35dd5a8d4.png)
+<img src="https://user-images.githubusercontent.com/21232416/197349642-8d1cf838-8370-44d8-aa40-88d35dd5a8d4.png" width="400" height="280">
+
 
 In the next screen type y and hit enter and do the same for Configure as single page app and set up automatic builds 
 
-![image](https://user-images.githubusercontent.com/21232416/197349662-69625f66-0cda-49b9-8cb4-034a3f79bd70.png)
+<img src="https://user-images.githubusercontent.com/21232416/197349662-69625f66-0cda-49b9-8cb4-034a3f79bd70.png" width="400" height="280">
 
 You will then see this screen 
 
-![image](https://user-images.githubusercontent.com/21232416/197349679-acd3c6fb-3c83-4829-95eb-c491e59690de.png)
+<img src="https://user-images.githubusercontent.com/21232416/197349679-acd3c6fb-3c83-4829-95eb-c491e59690de.png" width="400" height="280">
+
 type in your username and repo for the project username/MetaIoT
 
 You should then see a screen similar to the one below. Run through the questions and use this screen
 as a reference to the answers 
 
-![image](https://user-images.githubusercontent.com/21232416/197349694-9ecc64c4-b828-4b21-9331-389253b32f97.png)
+<img src="https://user-images.githubusercontent.com/21232416/197349694-9ecc64c4-b828-4b21-9331-389253b32f97.png" width="400" height="280">
 
- you will now see a public HTML file inside of your code files 
+
+ You will now see a public HTML file inside of your code files 
  
- ![image](https://user-images.githubusercontent.com/21232416/197349748-a31cdc53-099a-4793-a8ff-05dcb22f3abb.png)
+ <img src="https://user-images.githubusercontent.com/21232416/197349748-a31cdc53-099a-4793-a8ff-05dcb22f3abb.png" width="400" height="800">
+ 
  
  You will now copy your templates index.html and replace the index.html file in public
 
