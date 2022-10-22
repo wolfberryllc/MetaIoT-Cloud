@@ -124,7 +124,7 @@ or
  additionally you can run the command below if pip and npm do not work for you.
  
  ```
- python3 -m pip install git+https://github.com/ozgur/python-firebase
+ pip install git+https://github.com/ozgur/python-firebase
  
 ```
 
