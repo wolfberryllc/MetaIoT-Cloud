@@ -65,7 +65,7 @@ sudo apt install code
 ### Additional Hardware
 
 - Mobile Phone iOS & Android
-- 
+
 - Micro SD Card 64GB
 
 # Steps
