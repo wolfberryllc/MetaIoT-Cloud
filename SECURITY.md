@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-Here are the versions currently being supported. We have a total of three phases for this project, each new phase builds upon the previous.
+We have a total of three phases for this project, each new phase builds upon the previous.
 
 | Version | Supported          | Backend  |
 | ------- | ------------------ |---------|
