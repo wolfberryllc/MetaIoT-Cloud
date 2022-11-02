@@ -6,9 +6,9 @@ Here are the versions currently being supported. We have a total of three phases
 
 | Version | Supported          | Backend  |
 | ------- | ------------------ |---------|
-| 1.0.0   | :white_check_mark: |   Firebase  |
-| 2.0.0   | :white_check_mark: | | AWS
-| 3.0.0   | X                  |    Azure        |
+| 1.0.0   | :white_check_mark: | Firebase  |
+| 2.0.0   | :white_check_mark: | AWS   |
+| 3.0.0   | X                  | Azure  |
 
 ## Reporting a Vulnerability
 
