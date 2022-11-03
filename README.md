@@ -19,6 +19,8 @@ P1.1 - Web App + Raspberry Pi + Arduino + Firebase
 
 - Displayed data on a static IP address from Firebase.
 
+![1667482098370](https://user-images.githubusercontent.com/53659320/199795349-5d41cfd8-5322-4a0f-b42f-3ef006289b0c.jpg)
+
 ### Accounts Needed 
 
 ![Asset 2](https://user-images.githubusercontent.com/21232416/196292350-6d3745db-c8a0-42b1-b3bd-c1f502291eb6.png)
