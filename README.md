@@ -55,7 +55,7 @@ sudo apt install code
 
 - Arduino Uno R3 available at [Seeed Studio](https://www.seeedstudio.com/Arduino-Uno-Rev3-p-2995.html)
 
-- Arduino Sensor Base Kit available at [Seeed Studio](https://www.seeedstudio.com/Arduino-Sensor-Kit-Base-p-4743.html)
+- Arduino Sensor Kit Base available at [Seeed Studio](https://www.seeedstudio.com/Arduino-Sensor-Kit-Base-p-4743.html)
 
 - Capacative Soil Moisture Sensor available at [Seeed Studio](https://www.seeedstudio.com/Grove-Capacitive-Moisture-Sensor-Corrosion-Resistant.html)
 - [Planter AI Hardware Flowchart.pdf](https://github.com/wolfberryllc/MetaIoT/files/9822443/Planter.AI.Hardware.Flowchart.pdf)
