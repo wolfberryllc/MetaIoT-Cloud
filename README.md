@@ -2,7 +2,7 @@
 
 ## Phase 1 *Available now - Sensor to Data Visualization and Central Storage ✅
 
-
+![1667482098370](https://user-images.githubusercontent.com/53659320/199795349-5d41cfd8-5322-4a0f-b42f-3ef006289b0c.jpg)
 
 ### This project (P1) helps developers prototype and publish sensor-driven (Apps) in augmented reality using Unity, Firebase, and Google Cloud. 
 
@@ -18,8 +18,6 @@ P1.1 - Web App + Raspberry Pi + Arduino + Firebase
 - Collected data from Firebase and displayed it in a Unity mobile application.
 
 - Displayed data on a static IP address from Firebase.
-
-![1667482098370](https://user-images.githubusercontent.com/53659320/199795349-5d41cfd8-5322-4a0f-b42f-3ef006289b0c.jpg)
 
 ### Accounts Needed 
 
