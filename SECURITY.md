@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-We have a total of three phases for this project, each new phase builds upon the previous.
+We have a total of three phases for this project, each new phase builds upon the previous and each phase is a standalone product.
 
 | Version | Supported          | Backend  |
 | ------- | ------------------ |---------|
