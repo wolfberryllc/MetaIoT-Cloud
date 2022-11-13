@@ -325,7 +325,7 @@ and then
 python3 main.py
 ```
 
-[MetaIoTP1.pdf](https://github.com/wolfberryllc/MetaIoT/files/9997477/MetaIoTP1.pdf)
+[Planter AI Hardware & Services.pdf](https://github.com/wolfberryllc/MetaIoT/files/9997477/MetaIoTP1.pdf)
 
 
 ## Database Security
