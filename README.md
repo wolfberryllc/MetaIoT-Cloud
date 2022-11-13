@@ -338,7 +338,7 @@ P2.0 - Starter Project (Planter AI) + CrossPlatform Apps + AWS & Hyperledger + C
 
 Phase 2.0  - In Development.
 
-{Mobile dApp development & additonal sensors activated, uploading to Snapcraft.io, The App Store and Google Play using Augmented Reality (AR), AWS (Amazon Web Server & Services) + Hyperledger & Cardano} *Contact us for specifics using support@wolfberryllc.com - otherwise we will release all phase 2 assets, source code + notes around December 01 2022
+{Mobile dApp development & additonal sensors activated, uploading to Snapcraft.io, The App Store and Google Play using Augmented Reality (AR), AWS (Amazon Web Server & Services) + Hyperledger & Cardano} *Contact us for specifics using support@wolfberryllc.com - otherwise we will release all phase 2 assets, source code + notes around December 01 2022 as a new repository.
 
 
 
