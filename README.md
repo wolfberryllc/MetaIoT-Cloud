@@ -59,7 +59,7 @@ sudo apt install code
 
 - Capacative Soil Moisture Sensor available at [Seeed Studio](https://www.seeedstudio.com/Grove-Capacitive-Moisture-Sensor-Corrosion-Resistant.html)
 - [Planter AI Hardware Flowchart.pdf](https://github.com/wolfberryllc/MetaIoT/files/9822443/Planter.AI.Hardware.Flowchart.pdf)
-
+- [Planter AI Hardware & Services.pdf](https://github.com/wolfberryllc/MetaIoT/files/9997477/MetaIoTP1.pdf)
 
 
 ### Additional Hardware
@@ -324,9 +324,6 @@ and then
 ```
 python3 main.py
 ```
-
-[Planter AI Hardware & Services.pdf](https://github.com/wolfberryllc/MetaIoT/files/9997477/MetaIoTP1.pdf)
-
 
 ## Database Security
 
