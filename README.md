@@ -347,4 +347,4 @@ Phase 2.0  - In Development.
 ### This phase updates the backend to use Azure to Hyperledger to blockchain storage. 
 A wallet management and response system using phase 2 will be completed in this new environment. 
 
-![](https://komarev.com/ghpvc/?username=wolfberryllc&color=green)
+
