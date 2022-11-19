@@ -96,6 +96,13 @@ git clone https://(urlofrepository)
 cd /MetaIoT/PlanterAI-main/SensorApi
 ```
 
+## Verify Sensor Kit Base
+
+Browse to [Arduino Sensor Kit Lessons](https://sensorkit.arduino.cc/?_gl=1*55nx9n*_ga*NzkyOTM2NDE1LjE2NjQ3MjUzMjk.*_ga_NEXN8H46L5*MTY2ODg2MzgyOS4xMy4xLjE2Njg4NjQwNDEuMC4wLjA.)
+and run through the lessons to verify that your sensor kit base sensors are working properly. The values should display in through the serial monitor found in the tools section of the Arduino IDE. 
+
+
+
 
 ## Install Dependencies
 These will be run in the home folder of the repository you just created and cloned to your desktop. Please note that you will also need Python installed with pip on the machine you are using to build your application. Only use this if any of the dependencies are not working within your app. 
