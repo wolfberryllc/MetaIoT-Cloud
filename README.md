@@ -260,7 +260,7 @@ You will then see something similar to this in your terminal
 <img src="https://user-images.githubusercontent.com/21232416/197349614-c6f6dedc-51a7-4fe0-ad86-ce2b089ae22b.png" width="400" height="280">
 
 
-Use the down arrow and space bar to select Hosting configure files for Firebase Hostin and (optionally) set up github action deploys 
+Use the down arrow and space bar to select Hosting configure files for Firebase Hosting and (optionally) set up github action deploys 
 
 Then hit enter
 
