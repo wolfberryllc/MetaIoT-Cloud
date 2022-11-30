@@ -339,7 +339,7 @@ python3 main.py
 
     
 ## Phase 2 Sensor to Visualization with Hyperledger and Blockchain Storage *Pending release :cyclone:
-### This project (P2) helps developers prototype and publish sensor-driven (dApps) in augmented reality using Mobile Native, AWS, Hyperledger, and Cardano. 
+### This project (P2) helps developers prototype and publish sensor-driven (dApps) in augmented reality using Mobile Native, AWS, Hyperledger, and Ethereum. 
 
 P2.0 - Starter Project (Planter AI CrossPlatform Apps) + Raspberry Pi + Arduino + AWS & Hyperledger + Ethereum.
 
