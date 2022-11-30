@@ -7,9 +7,9 @@
 ### This project (P1) helps developers prototype and publish sensor-driven (Apps) in augmented reality using Unity, Firebase, and Google Cloud. 
 
 
-P1.0 - Starter Project (Planter AI) + Unity 3D + Firebase + Google Cloud.
+P1.0 - Starter Project (Planter AI - Web App) + Raspberry Pi + Arduino + Unity 3D + Firebase + Google Cloud.
 
-P1.1 - Web App + Raspberry Pi + Arduino + Firebase
+P1.0 - Complete and available now. 
 
 - We've developed a sensor application called Planter AI (Raspberry Pi + Arduino)
 
