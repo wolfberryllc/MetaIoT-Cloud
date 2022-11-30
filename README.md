@@ -7,7 +7,7 @@
 ### This project (P1) helps developers prototype and publish sensor-driven (Apps) in augmented reality using Unity, Firebase, and Google Cloud. 
 
 
-P1.0 - Starter Project (Planter AI - Web App) + Raspberry Pi + Arduino + Unity 3D + Firebase + Google Cloud.
+P1.0 - Starter Project (Planter AI Web App) + Raspberry Pi + Arduino + Unity 3D + Firebase + Google Cloud.
 
 P1.0 - Complete and available now. 
 
@@ -341,7 +341,7 @@ python3 main.py
 ## Phase 2 Sensor to Visualization with Hyperledger and Blockchain Storage *Pending release :cyclone:
 ### This project (P2) helps developers prototype and publish sensor-driven (dApps) in augmented reality using Mobile Native, AWS, Hyperledger, and Cardano. 
 
-P2.0 - Starter Project (Planter AI) + CrossPlatform Apps + AWS & Hyperledger + Ethereum.
+P2.0 - Starter Project (Planter AI CrossPlatform Apps) + Raspberry Pi + Arduino + AWS & Hyperledger + Ethereum.
 
 Phase 2.0  - In Development.
 
