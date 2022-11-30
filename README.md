@@ -341,11 +341,11 @@ python3 main.py
 ## Phase 2 Sensor to Visualization with Hyperledger and Blockchain Storage *Pending release :cyclone:
 ### This project (P2) helps developers prototype and publish sensor-driven (dApps) in augmented reality using Mobile Native, AWS, Hyperledger, and Cardano. 
 
-P2.0 - Starter Project (Planter AI) + CrossPlatform Apps + AWS & Hyperledger + Cardano.
+P2.0 - Starter Project (Planter AI) + CrossPlatform Apps + AWS & Hyperledger + Ethereum.
 
 Phase 2.0  - In Development.
 
-{Mobile dApp development & additonal sensors activated, uploading to Snapcraft.io, The App Store and Google Play using Augmented Reality (AR), AWS (Amazon Web Server & Services) + Hyperledger & Cardano} *Contact us for specifics using support@wolfberryllc.com - otherwise we will release all phase 2 assets, source code + notes around December 01 2022 as a new repository.
+{Mobile dApp development & additonal sensors activated, uploading to Snapcraft.io, The App Store and Google Play using Augmented Reality (AR), AWS (Amazon Web Server & Services) + Hyperledger & Ethereum} *Contact us for specifics using support@wolfberryllc.com - otherwise we will release all phase 2 assets, source code + notes around December 15 2022 as a new repository.
 
 
 
