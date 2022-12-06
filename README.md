@@ -11,13 +11,10 @@ P1 - Starter Project (Planter AI Web App) + Raspberry Pi + Arduino + Unity + Fir
 
 P1 - Complete and available now. 
 
-- We've developed a sensor application called Planter AI (Raspberry Pi + Arduino)
+We've developed an innovative sensor-driven application called Planter AI, which combines Raspberry Pi, Arduino, Unity, Firebase, and Google Cloud to help developers prototype and publish their apps quickly and easily. 
 
-- Stored Raspberry Pi data into Google Firebase through Python API's
+Using Python APIs, we are able to store data collected from the Raspberry Pi into Google Firebase. This data is then collected from Firebase and displayed in Unity for a mobile application, and can be accessed through a static IP address. 
 
-- Collected data from Firebase and displayed it in a Unity mobile application.
-
-- Displayed data on a static IP address from Firebase.
 
 ### Accounts Needed 
 
