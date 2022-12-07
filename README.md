@@ -342,7 +342,8 @@ P2 - Starter Project (Planter AI CrossPlatform Apps) + Raspberry Pi + Arduino + 
 
 Phase 2 - In Development.
 
-{Mobile dApp development & additonal sensors activated, uploading to Snapcraft.io, The App Store and Google Play using Augmented Reality (AR), AWS (Amazon Web Server & Services) + Hyperledger & Ethereum} *Contact us for specifics using support@wolfberryllc.com - otherwise we will release all phase 2 assets, source code + notes around December 15 2022 as a new repository.
+
+{Mobile dApp development & additional sensors activated, uploading to Snapcraft.io, The App Store and Google Play using Augmented Reality (AR), AWS (Amazon Web Server & Services) + Hyperledger & Ethereum} *Contact us for specifics using support@wolfberryllc.com - otherwise, we will release all phase 2 assets, source code + notes around January 1, 2023, as a new repository.
 
 
 
