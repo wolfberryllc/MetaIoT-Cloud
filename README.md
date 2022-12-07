@@ -1,4 +1,4 @@
-# This IoT system offers a comprehensive data pipeline for monitoring, visualizing, and storing data from sensors to the cloud. It provides an end-to-end solution for collecting and analyzing real-time sensor data, enabling you to gain valuable insights and make informed decisions quickly.
+# IoT system for monitoring, visualizing, and storing sensor data in the cloud. End-to-end solution for collecting, and analyzing real-time data for insights and decisions.
 
 ## Phase 1 *Available now - Sensor to Data Visualization and Cloud Storage ✅
 
