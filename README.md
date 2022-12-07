@@ -1,4 +1,4 @@
-# This IoT system offers an end-to-end data route with visualization from sensors to storage.
+# This IoT system provides an end-to-end data path with visualization capabilities from sensors to cloud storage. 
 
 ## Phase 1 *Available now - Sensor to Data Visualization and Cloud Storage ✅
 
