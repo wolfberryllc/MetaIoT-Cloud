@@ -1,4 +1,4 @@
-# IoT system for monitoring, visualizing, and storing sensor data in the cloud. End-to-end solution for collecting, and analyzing real-time data for insights and decisions.
+# MetaIoT is a system for monitoring, visualizing, and storing sensor data in the cloud. End-to-end solution for collecting, and analyzing real-time data for insights and decisions.
 
 ## Phase 1 *Available now - Sensor to Data Visualization and Cloud Storage ✅
 
