@@ -349,7 +349,7 @@ Phase 2 - In Development.
 
 
 
-## Phase 3 Management and Response System *Pending release 🌀
+## Phase 3 Management and Response System *Private *Pending release 🌀
 ### This phase updates the backend to use Azure to Hyperledger to various decentralized networks. 
 A wallet management and response system using phase 2 will be completed in this new environment. 
 
