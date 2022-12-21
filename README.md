@@ -334,23 +334,5 @@ python3 main.py
 ## Database Security
 
 ***Coming Soon ***
- 
-
-    
-## Phase 2 Sensor to Visualization with Hyperledger and Blockchain Storage *Pending release :cyclone:
-### This project (P2) helps developers prototype and publish sensor-driven (dApps) in augmented reality using Mobile Native, AWS, Hyperledger, and Ethereum. 
-
-P2 - Starter Project (Planter AI CrossPlatform Apps) + Raspberry Pi + Arduino + AWS & Hyperledger + Ethereum.
-
-Phase 2 - In Development.
-
-
-{Mobile dApp development & additional sensors activated, uploading to Snapcraft.io, The App Store and Google Play using Augmented Reality (AR), AWS (Amazon Web Server & Services) + Hyperledger & Ethereum} *Contact us for specifics using support@wolfberryllc.com - otherwise, we will release all phase 2 assets, source code + notes around January 15, 2023, as a new repository.
-
-
-
-## Phase 3 Management and Response System *Private *Pending release 🌀
-### This phase updates the backend to use Azure to Hyperledger to various decentralized networks. 
-A wallet management and response system using phase 2 will be completed in this new environment. 
 
 
