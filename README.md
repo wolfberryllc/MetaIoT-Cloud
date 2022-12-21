@@ -2,16 +2,15 @@
 
 MetaIoT is a comprehensive system for monitoring, visualizing, and storing sensor data in the cloud. It offers an end-to-end solution for collecting, managing, analyzing, and visualizing real-time data, providing valuable insights and enabling informed decisions. It utilizes powerful tools to monitor and manage large-scale sensor networks, allowing users to visualize and manage data in a simple and efficient manner. It also offers an intuitive user interface for easily configuring and managing devices, as well as powerful analytics and visualization tools for extracting meaningful insights and taking action. Furthermore, MetaIoT allows users to securely store data in the cloud and access it from anywhere, anytime. It also provides automated alerts and notifications for quickly responding to changes in the data. With MetaIoT, users can easily and quickly gain insights from their sensor data and make more informed decisions.
 
-## Phase 1 *Available now - Sensor to Data Visualization and Cloud Storage ✅
+## *Available now - Sensor to Data Visualization and Cloud Storage ✅
 
 ![1667482098370](https://user-images.githubusercontent.com/53659320/199795349-5d41cfd8-5322-4a0f-b42f-3ef006289b0c.jpg)
 
 ### This project (P1) helps developers prototype and publish sensor-driven (Apps) using Unity3d, Firebase, and Google Cloud. 
 
 
-P1 - Starter Project (Planter AI Web App) + Raspberry Pi + Arduino + Unity + Firebase + Google Cloud.
+Starter Project (Planter AI Web App) + Raspberry Pi + Arduino + Unity + Firebase + Google Cloud.
 
-P1 - Complete and available now. 
 
 We've developed an innovative sensor-driven application called Planter AI, which combines Raspberry Pi, Arduino, Unity, Firebase, and Google Cloud to help developers prototype and publish their apps quickly and easily. 
 
